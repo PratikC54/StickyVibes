@@ -8,7 +8,7 @@ function Footer() {
             Built with
             <FontAwesomeIcon icon={faHeart} className="footer-icon" />
             by <a href="https://pratiksenapati.netlify.app" target="_blank" rel="noreferrer">
-                PratikC54
+                Pratik Senapati
             </a>  &copy;2026 StickyVibes. All rights reserved.
         </footer>
     );
