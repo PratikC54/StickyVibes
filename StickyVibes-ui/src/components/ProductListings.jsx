@@ -1,6 +1,6 @@
 import ProductCard from './ProductCard'
 
-function ProductListings({ products}) {
+function ProductListings({ products }) {
   return (
     <div className="product-listings-container">
       <div className="product-listings-grid">
